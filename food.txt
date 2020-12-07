@@ -1,0 +1,59 @@
+Apple
+Apricots
+Avocado
+Banana
+Blackberries
+Blackcurrant
+Blueberries
+Cranberries
+Figs
+Gooseberries
+Grapes
+Guava
+Jackfruit
+Kiwi
+Lemon
+Lime
+Lychee
+Mango
+Mulberries
+Olives
+Orange
+Papaya
+Peaches
+Pear
+Plums
+Pomegranate
+Prunes
+Raspberries
+Strawberries
+Tamarind
+Tangerine
+Watermelon
+Burger
+French Fries
+Coco Cola
+Potato Chips
+Popcorn
+Pizza
+Icecream
+Waffles
+Pancakes
+Nutella
+Sandwich
+Nuggets
+Iced Tea
+Coffee
+Chocolate
+Doughnuts
+Croissants
+Hot Dogs
+Noodles
+Pasta
+Sprite
+Lemonade
+Hot chocolate
+Milkshake
+Cereal
+Samosa
+Cake
