@@ -1,12 +1,6 @@
 import cs50
 import random
 
-'''def random_line(txt_file):
-    lines = open(txt_file).read().splitlines()
-    word2= random.choice(lines)
-    txt_file.close()
-    return word2
-'''
 already= []
 def main():
 
@@ -14,7 +8,11 @@ def main():
     name = input("What is your name? \n")
     print("HELLO "+ name)
 
-    text = input("Type in the Genre for playing Hangman : \n Movies|Countries|Food|General Words: \n " )
+    text = input("Type in the Genre for playing Hangman: \nMovies|Countries|Food|General Words: " )
+    print()
+    if text.lower()== "general words":
+        print("check")
+        text= "generalwords"
     text = text.lower() + ".txt"
     with open(text) as txt_file:
         #word=random_line(txt_file)
@@ -27,6 +25,9 @@ def main():
         word_og=['_']*len(word)
         for i in range(len(word)):
             word_og[i]=word[i]
+            if word[i] == '.' or word[i] == ' ' or word[i] == ':' or word[i] == ',' or word[i] == '\'' or word[i] == '!' or word[i] == '&' or word[i] == '-':
+                word1[i]= word[i]
+
         print("Guess the word! :")
         for i in range(len(word1)):
             print(word1[i] + " ", end=" ")
@@ -50,7 +51,7 @@ def main():
                     tries-=1
                     print("You have " + str(tries) + " tries left!")
                     for i in range(len(word1)):
-                        print(word1[i]+ " ",end=" ")
+                        print(word1[i],end=" ")
                     print()
 
                 if tries == 0:
@@ -60,7 +61,7 @@ def main():
 
                 if flag ==1:
                     for i in range(len(word1)):
-                        print(word1[i]+ " ",end=" ")
+                        print(word1[i],end=" ")
                     print()
                 if tries!=0 and word1==word_og:
                     print()
