@@ -1,2 +1,59 @@
-# Hangman-2.0
-Apni Game
+Mission: Impossible
+Gladiator
+Cast Away	
+What Women Want	
+Dinosaur
+How the Grinch Stole Christmas	
+Meet the Parents	
+The Perfect Storm
+X-Men	20th
+What Lies Beneath
+Parent Trap
+The Lord of the Rings: The Two Towers	
+Harry Potter and the Chamber of Secrets	
+Spider-Man	
+Star Wars: Episode II – Attack of the Clones	
+Men in Black II		
+Signs	
+Ice Age	
+My Big Fat Greek Wedding	
+Harry Potter and the Philosopher's Stone	
+The Lord of the Rings: The Fellowship of the Ring	
+Monsters, Inc.	
+Shrek	DreamWorks	
+Ocean's Eleven	
+Pearl Harbor	
+The Mummy Returns	
+Jurassic Park III	
+Planet of the Apes
+Hannibal
+Harry Potter and the Goblet of Fire	
+Star Wars: Episode III – Revenge of the Sith	
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	
+War of the Worlds	
+King Kong	
+Madagascar	
+Mr. & Mrs. Smith	
+Charlie and the Chocolate Factory	
+Batman Begins	
+Hitch
+The Dark Knight	
+Indiana Jones and the Kingdom of the Crystal Skull	
+Kung Fu Panda	
+Hancock
+Mamma Mia!	
+Madagascar: Escape 2 Africa	
+Quantum of Solace	
+Iron Man	
+WALL-E	
+The Chronicles of Narnia: Prince Caspian
+Transformers: Age of Extinction
+The Hobbit: The Battle of the Five Armies	
+Guardians of the Galaxy	
+Maleficent	
+The Hunger Games: Mockingjay 	
+X-Men: Days of Future Past	
+Captain America: The Winter Soldier	
+Dawn of the Planet of the Apes	
+The Amazing Spider-Man 2	
+Interstellar
